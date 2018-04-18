@@ -4,6 +4,7 @@ public class TestClass {
 
 	public void Test(){
 	System.out.println("Hello , its just a demo code");
+	System.out.println("Changes made");
 
 	}
 
